@@ -1,5 +1,5 @@
 # 💫 About Me:
-📕 I am currently an undergraduate computer science student student.
+📕 I am currently an undergraduate computer science student, always looking to learn something new!
 
 ## 👥 LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samirhadi/) 
