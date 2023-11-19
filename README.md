@@ -1,6 +1,5 @@
 # 💫 About Me:
-📕 I am currently an undergraduate computer science student student graduating in December 2023, seeking full-time software engineering roles.<br><br>👨‍💻 I am currently working on CyberLinks, a platform that allows users to create a homepage with all of their links.
-
+📕 I am currently an undergraduate computer science student student.
 
 ## 👥 LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samirhadi/) 
