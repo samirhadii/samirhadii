@@ -1,8 +1,8 @@
 # 💫 About Me:
-📕 I am a new grad software engineer, always looking to learn something new!
+📕 I am an early career software engineer and a part-time masters student at The Georgia Institute of Technology, always looking to learn something new!
 
 ## 👥 LinkedIn:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samirhadi/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samirhadi/) 
 
 
 ### ✍️ Random Dev Quote
