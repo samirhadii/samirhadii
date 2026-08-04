@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full-time software engineer and a part-time masters student at The Georgia Tech.
+full-time AI engineer and ML masters at Georgia Tech.
 
 ## 👥 LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samirhadi/) 
